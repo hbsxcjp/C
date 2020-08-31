@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T02:23:41.946Z" agent="5.0 (Windows)" etag="_Yzo0B2XQIJGUTR0M_0I" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T02:24:36.471Z" agent="5.0 (Windows)" etag="Mc8mtmhkK3-QUAHJntj0" version="13.6.5" type="github">
   <diagram id="My2IJB_6lRr76A3Sq8Mw" name="Page-1">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,12 +28,12 @@
         <mxCell id="wp8V5_hWCpdFmHZPk3Hv-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="wp8V5_hWCpdFmHZPk3Hv-6" source="wp8V5_hWCpdFmHZPk3Hv-9" target="wp8V5_hWCpdFmHZPk3Hv-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="Organization" treeRoot="1" id="wp8V5_hWCpdFmHZPk3Hv-9">
+        <UserObject label="组织" treeRoot="1" id="wp8V5_hWCpdFmHZPk3Hv-9">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wp8V5_hWCpdFmHZPk3Hv-6">
             <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-10" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wp8V5_hWCpdFmHZPk3Hv-6">
+        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-10" value="部门" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wp8V5_hWCpdFmHZPk3Hv-6">
           <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wp8V5_hWCpdFmHZPk3Hv-11" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wp8V5_hWCpdFmHZPk3Hv-6">
