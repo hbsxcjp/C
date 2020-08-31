@@ -1,1 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T02:20:43.843Z" agent="5.0 (Windows)" version="13.6.5" etag="78R2IlnMNS83wpUSsYub" type="github"><diagram id="My2IJB_6lRr76A3Sq8Mw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-31T02:23:41.946Z" agent="5.0 (Windows)" etag="_Yzo0B2XQIJGUTR0M_0I" version="13.6.5" type="github">
+  <diagram id="My2IJB_6lRr76A3Sq8Mw" name="Page-1">
+    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-1" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-5" value="" style="shape=sortShape;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-6" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="134" y="590" width="280" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="wp8V5_hWCpdFmHZPk3Hv-6" source="wp8V5_hWCpdFmHZPk3Hv-9" target="wp8V5_hWCpdFmHZPk3Hv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="wp8V5_hWCpdFmHZPk3Hv-6" source="wp8V5_hWCpdFmHZPk3Hv-9" target="wp8V5_hWCpdFmHZPk3Hv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Organization" treeRoot="1" id="wp8V5_hWCpdFmHZPk3Hv-9">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wp8V5_hWCpdFmHZPk3Hv-6">
+            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-10" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wp8V5_hWCpdFmHZPk3Hv-6">
+          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wp8V5_hWCpdFmHZPk3Hv-11" value="Division" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="wp8V5_hWCpdFmHZPk3Hv-6">
+          <mxGeometry x="160" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
